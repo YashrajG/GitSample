@@ -1,2 +1,4 @@
 This is the first sample file.
 This example is a part of the git assessment.
+These changes are made from another place.
+sample1 file changed once.

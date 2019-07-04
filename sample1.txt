@@ -1,0 +1,2 @@
+This is the first sample file.
+This example is a part of the git assessment.

@@ -1,0 +1,2 @@
+This is the second sample file.
+This example is a part of the git assessment.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dalso a part of the git assessment.

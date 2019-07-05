@@ -6,3 +6,4 @@ This change is made in the production environment.
 Line ready for use.
 This file of sample2 is created in the dev environment.
 Development Line.
+This change of sample file 2 is made only in master.

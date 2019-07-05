@@ -4,3 +4,5 @@ More changes from second location.
 Git assessment problem 2.
 This change is made in the production environment.
 Line ready for use.
+This file of sample2 is created in the dev environment.
+Development Line.
